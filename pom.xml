@@ -20,5 +20,5 @@
       <id>nexusCIProcess</id>
       <url>http://{enter your nexus host here}:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
-  </distributionManagement> -->  
+  </distributionManagement>  -->  
 </project>
